@@ -898,7 +898,7 @@ iframe {
 }
 .contact .container{
 	padding-top:75px;
-	padding-bottom:0;
+	padding-bottom:75px;
 }
 .mapArea{
 	height:462px;
@@ -1049,7 +1049,7 @@ iframe {
 	 10. Footer Style
 ------------------------------------------------------*/
 .footer{
-	background:#f8f8f8;
+	background:#fff;
 }
 .footer .container{
 	padding:84px 0 0;
